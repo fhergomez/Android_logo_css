@@ -140,3 +140,9 @@
   -webkit-transform: rotate(15deg) translate(-14px, 0);
   -moz-transform: rotate(15deg) translate(-14px, 0);
 }
+
+.r_leg:hover {
+  -transform: rotate(-30deg) translate(20px, 0);
+  -webkit-transform: rotate(-30deg) translate(20px, 0);
+  -moz-transform: rotate(-30deg) translate(20px, 0);
+}
